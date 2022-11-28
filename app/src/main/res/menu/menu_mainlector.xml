@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/icon_actualizar"
+        android:icon="@drawable/icon_actualizar"
+        app:showAsAction="always"
+        android:title="Menu Nombres"/>
+
+</menu>
